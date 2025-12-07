@@ -1,4 +1,4 @@
-## Demo Android App Searching GitHub Repository
+## Demo Android App for Searching GitHub Repositories
 - A demo app to showcase some latest Android development techniques in Jetpack Compose
 - Inspired by a deprecated [Android Paging Advanced codelab](https://developer.android.com/codelabs/android-paging), using latest techniques and adding more advanced features
   - I did not find a replacement for that codelab
